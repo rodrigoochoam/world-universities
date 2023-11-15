@@ -123,7 +123,7 @@ function App() {
         </Button>
       </div>
       <div>
-        <p>This information was retrieved from <a href="https://github.com/Hipo/university-domains-list/tree/master" target="_blank">University Domains and Names Data List</a>. Website created by Rodrigo Ochoa Mayagoitia at MIT Full-Stack Software Engineering Certificate with MERN. 14-November-2023 </p>
+        <p>This information was retrieved from <a href="https://github.com/Hipo/university-domains-list/tree/master">University Domains and Names Data List</a>. Website created by Rodrigo Ochoa Mayagoitia at MIT Full-Stack Software Engineering Certificate with MERN. 14-November-2023 </p>
       </div>
     </Container>
   );
